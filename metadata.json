@@ -1,0 +1,6 @@
+{
+  "name": "iPanic Lab — منصة تحليل سجلات وأعطال الآيفون",
+  "description": "منصة هندسية متخصصة لتحليل ملفات أخطاء الآيفون (.ips / panic-full) وتشخيص أعطال الهاردوير والنظام وأكواد الريستور بدقة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
